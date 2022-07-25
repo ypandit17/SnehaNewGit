@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="111" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="111" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+      <class name="com.TestNg.practise.Test_Ng">
+        <test-method status="PASS" signature="Browser_Open()[pri:0, instance:com.TestNg.practise.Test_Ng@6ee52dcd]" name="Browser_Open" is-config="true" duration-ms="20" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_Open -->
+        <test-method status="PASS" signature="Login(java.lang.String)[pri:0, instance:com.TestNg.practise.Test_Ng@6ee52dcd]" name="Login" duration-ms="26" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Yogesh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Homepage()[pri:0, instance:com.TestNg.practise.Test_Ng@6ee52dcd]" name="Homepage" duration-ms="32" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.TestNg.practise.Test_Ng@6ee52dcd]" name="Logout" is-config="true" duration-ms="1" started-at="2022-06-30T23:43:13 IST" finished-at="2022-06-30T23:43:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+      </class> <!-- com.TestNg.practise.Test_Ng -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
